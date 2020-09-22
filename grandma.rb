@@ -27,7 +27,6 @@ def speak_to_grandma(phrase)
     'NO, NOT SINCE 1938!'
 =======
   elsif phrase == ""
->>>>>>> 32fc781cbec074867e3f896d1be7f8fc91fe821e
   end
 end
 
